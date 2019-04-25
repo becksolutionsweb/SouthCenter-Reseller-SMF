@@ -1,4 +1,4 @@
-# SouthCenter-Reseller-SMF
+# SouthCenter Reseller SMF Theme
 
 Esta es la versión v2 del foro de SouthCenter, su tema ha sido liberado ya que se utiliza una nuevo mejorado.
 
